@@ -4,3 +4,8 @@
 
 ### BASH (Bourne-Again SHell)
 **BASH (Bourne-Again SHell)** adalah pengembangan dari SH yang dibuat oleh GNU dan menjadi shell default di banyak distro Linux seperti Ubuntu. Nama programnya biasanya `bash`, dan menawarkan fitur-fitur modern seperti autocomplete dengan TAB, riwayat perintah (history), penggunaan array, serta ekspresi logika `[[ ... ]]` yang lebih fleksibel. Dengan kemampuan scripting yang lebih lengkap, BASH menjadi pilihan utama untuk pengguna dan pengembang Linux saat ini.
+
+### Intinya
+**Shell (SH)** adalah bahasa skrip awal di Unix, sedangkan **BASH** adalah versi modern dan lebih lengkap yang jadi standar di Linux.
+**Unix** adalah sistem operasi asli, tertutup (komersial)
+**Linux** adalh operasi **open source** yang dibuat mirip **Unix (disebut: Unix-like system)**, tapi dibuat dari nol
