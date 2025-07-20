@@ -22,9 +22,8 @@
 - cat = Menampilkan isi file di terminal
 - nano = Membuka file dengan text editor sederhana di terminal
 - find = Mencari file atau folder dari direktori tertentu
-- find -type f -name "file" = Mencari file biasa (-type f) dengan nama spesifik
+- find -type f -"nama file" = Mencari file dengan nama spesifik
 - grep = Mencari teks di dalam file
-- grep -r "teks" /folder = Mencari teks dalam semua file di dalam folder secara rekursif
 - chmod = Mengubah permission (izin akses) sebuah file atau folder
 - chown = Mengubah kepemilikan (owner) file atau folder ke user/grup lain
 - history = Menampilkan daftar perintah yang pernah dijalankan di terminal
