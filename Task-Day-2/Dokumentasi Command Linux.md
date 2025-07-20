@@ -38,7 +38,7 @@
 - poweroff = untuk mematikan server
 - reboot = untuk merestar server
 
-## Command untuk akses recovery mode atau akses root
+## Command untuk akses recovery mode dan akses root
 
 - Tekan Shift atau ESC pada saat porses booting Ubuntu server
 - Jika tekan Shift atau ESC pun gak ngaruh, itu karena GRUB-nya langsung dilewati (hidden dan timeout-nya 0). 
@@ -69,4 +69,9 @@
 8. Lalu pilih yang ada tulisan:  
    Ubuntu, with Linux "versi yang digunakan" - (recovery mode)
 
-9. Pilih opsi root untuk mengakses terminal sebagai root.
+9. Pilih opsi root.
+    
+10. Dan kita sudah mengakses terminal sebagai root.
+
+
+
