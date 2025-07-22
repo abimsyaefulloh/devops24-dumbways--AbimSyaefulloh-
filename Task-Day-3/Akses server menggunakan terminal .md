@@ -1,11 +1,15 @@
-## Akeses Server menggunakan Terminal 
-### Buka Terminal 
-<br> disini saya menggunakan Windows PowerShell
-<img src="scr/Foto-1.png" width="75%">
+# Akses Server Menggunakan Terminal
+
+## Buka Terminal
+Di sini saya menggunakan **Windows PowerShell** untuk mengakses server.
+![Buka PowerShell](scr/Foto-1.png)
+
 ## Jalankan Perintah SSH
-<br> ssh username@ip-address
-<br> isi password server kalian
-<img src="scr/Foto-2.png" width="75%">
+Gunakan perintah berikut untuk mengakses server:
+ssh username@ip-address
+Setelah itu, masukkan **password** dari server kalian.
+![Perintah SSH](scr/Foto-2.png)
+
 ## Sukses Terhubung
-<br> Output terminal ketika sudah terhubung
-<img src="scr/Foto-3.png" width="75%">
+Jika berhasil, akan muncul output di terminal seperti contoh berikut:
+![Berhasil Terhubung](scr/Foto-3.png)
