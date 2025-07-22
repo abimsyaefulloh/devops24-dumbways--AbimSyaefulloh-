@@ -1,4 +1,7 @@
 # Akses Server Menggunakan Terminal
+## Buka Server VM
+Install open shh  server terlebih dahulu
+![Install openssh-server](scr/Foto-0.png)
 
 ## Buka Terminal
 Di sini saya menggunakan **Windows PowerShell** untuk mengakses server.
