@@ -20,6 +20,15 @@ Contohnya:
 `echo "Tung Tung Sahur" > fileBrnRot`  
 ![text manipulation](scr/Foto-3-1.png)
 
+## 3. grep
+Mencari text dari file tertentu.  
+Contohnya:  
+- Mencari text **Uncle** difile **fileMSG**  
+`grep Uncle fileMSG`  
+- Mencari text **Uncle** di suatu direktori  
+`grep Uncle *`  
+- Mencari ada bebera text **Uncle** yang ada dalam satu direktori  
+`grep -c Uncle *`  
 ![text manipulation](scr/Foto-3-2.png)
 
 ![text manipulation](scr/Foto-3-3.png)
