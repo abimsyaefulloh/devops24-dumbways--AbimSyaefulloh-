@@ -1,2 +1,2 @@
-![foto](scr:Foto-0-1)
+![foto](scr:Foto-0-1.jpg)
 
