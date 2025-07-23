@@ -49,20 +49,18 @@ Angka 123 menunjukkan alamat IP unik milik satu perangkat dalam jaringan 192.168
 Angka .1 biasanya digunakan sebagai alamat router/gateway, yaitu perangkat yang menghubungkan jaringan lokal ke jaringan lain (misalnya internet).  
 `Name server: 8.8.8.8, 8.8.4.4`  
 angka 8.8.8.8 dan 8.8.4.4 itu menunjukan Server Google yang akan saya gunakan.  
- 
 ![Fotoscr](scr/Foto-4-2.png)
-
+Storage Configuration. Saya menggunakan Custom Storage.  
 ![Fotoscr](scr/Foto-4-3.png)
-
+Dengan konfigurasi, 7 GB penyimpanan dan 2.8 GB penyimpanan cadangan.  
 ![Fotoscr](scr/Foto-4-4.png)
-
+Membuat Profile dari nama, nama server, hingga username dan password.  
 ![Fotoscr](scr/Foto-4-5.png)
-
+Saya memilih tidak menginstal configurasi apaapun hanya Ubuntu kosongan saja.  
 ![Fotoscr](scr/Foto-4-6.png)
-
+Tunggu instalasinya hingga selesai.  
 ![Fotoscr](scr/Foto-4-7.png)
-
 ![Fotoscr](scr/Foto-4-8.png)
-
+Login degan username dan password.  
 ![Fotoscr](scr/Foto-4-9.png)
 
