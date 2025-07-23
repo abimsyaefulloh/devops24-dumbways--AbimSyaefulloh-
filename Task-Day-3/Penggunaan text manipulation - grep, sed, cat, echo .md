@@ -31,4 +31,10 @@ Contohnya:
 `grep -c Uncle *`  
 ![text manipulation](scr/Foto-3-2.png)
 
+## 4. sed  
+Digunakan untuk find & replace, hapus baris, atau manipulasi lainnya.  
+Tapi sebagai contoh singkat saya hanya akan mempraktekan `-i` saja.  
+Contohnya:  
+- Mengganti kata **wasupp** menjadi **Hallo** di file1.  
+`sed -i 's/wasupp/Hallo/g' file1`  
 ![text manipulation](scr/Foto-3-3.png)
