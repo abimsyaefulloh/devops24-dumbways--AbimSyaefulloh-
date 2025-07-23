@@ -17,15 +17,15 @@ copy kuncinya yang berupa text tersebut
 ![tampilan di notepad](scr/Foto-2-2.png)
 
 ### 4. Copy kunci ke Server
-
-Copy ke  
+Buka direktori dibawah ini terlebih dahulu  
 `/.ssh/authorized_keys`  
 ![copy ke server](scr/Foto-2-3.png)
 
-### 5. Buka authorized_keys
+### 5. Buka authorized_keys dan Paste kuncinya  
 
 Buka menggunakan command  
 `nano authorized_keys`  
+Lalu paste kuncinya
 ![nano](scr/Foto-2-4.png)
 
 ### 6. Akses Server diterminal tampa password
