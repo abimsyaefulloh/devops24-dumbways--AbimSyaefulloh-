@@ -63,4 +63,6 @@ Tunggu instalasinya hingga selesai.
 ![Fotoscr](scr/Foto-4-9.png)
 Login degan username dan password.  
 ![Fotoscr](scr/Foto-4-8.png)
-
+Ini tampilan awal dari Virtual Machine ketika sudah login.  
+![Fotoscr](scr/Foto-4-10.png)
+Itu saja tutorial Install ubuntu servernya sekian terimakasih.  
