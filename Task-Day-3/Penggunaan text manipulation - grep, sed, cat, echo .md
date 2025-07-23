@@ -1,5 +1,5 @@
 ### 1. cat
-####Untuk menampilkan isi file teks dan menggabungkan beberapa file.
+Untuk menampilkan isi file teks dan menggabungkan beberapa file.
 contohnya:
 - Menampilkan isi file: fileMSG dan fileBrnRot
 **cat fileMSG**
