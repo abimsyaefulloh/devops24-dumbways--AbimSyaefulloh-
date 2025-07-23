@@ -2,8 +2,8 @@
 Untuk menampilkan isi file teks dan menggabungkan beberapa file.
 contohnya:
 - Menampilkan isi file: fileMSG dan fileBrnRot
-**cat fileMSG**
-**cat fileBrnRot**
+  'cat fileMSG'
+  'cat fileBrnRot'
 
 - Menggabungkan file: fileMSG dan fileBrnRot kedalam file baru bernama fileGabungan
   cat fileMSG fileBrnRot > fileGabungan
