@@ -1,5 +1,5 @@
 # Diagram Jaringan Komputer
-![diagram](scr/Diagram-Jaringan-Komputer-.png)
+![diagram](scr/Diagram.png)
 
 # Daftar Command Linux 
 
