@@ -8,8 +8,8 @@ Di sini saya menggunakan **Windows PowerShell** untuk mengakses server.
 ![Buka PowerShell](scr/Foto-1-1.png)
 
 ## 3. Jalankan Perintah SSH
-Gunakan perintah berikut untuk mengakses server:
-ssh username@ip-address
+Gunakan perintah berikut untuk mengakses server:  
+`ssh username@ip-address`  
 Setelah itu, masukkan **password** dari server kalian.
 ![Perintah SSH](scr/Foto-1-2.png)
 
