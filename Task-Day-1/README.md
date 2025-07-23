@@ -1,3 +1,5 @@
+#**Install Ubuntu Server**
+
 ![Fotoscr](scr/Foto-0-0.jpg)
 
 ![Fotoscr](scr/Foto-0-1.jpg)
