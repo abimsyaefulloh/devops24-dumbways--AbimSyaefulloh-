@@ -2,13 +2,14 @@
 
 ### 1. Generate Kunci dan Gembok
 
-generate kunci dan gembok menggunakan  
-`ssh-keygen`
+Generate kunci dan gembok menggunakan.  
+`ssh-keygen`  
+Lalu pilih lokasi penyimpanan  
 ![sshkeygen](scr/Foto-2-0.png)
 
-### 2. Buka File Manager
-
-Buka file `kunci.pub` menggunakan notepad
+### 2. Buka File Manager  
+Buka lokasi penyimpanan kuncinya lalu,  
+buka file `kunci.pub` menggunakan notepad
 ![kunci.pub di file manager](scr/Foto-2-1.png)
 
 ### 3. Tampilan di notepad
