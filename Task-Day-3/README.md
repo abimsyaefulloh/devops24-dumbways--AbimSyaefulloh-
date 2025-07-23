@@ -18,8 +18,7 @@ Setelah itu, masukkan **password** dari server kalian.
 Jika berhasil, akan muncul output di terminal seperti contoh berikut:
 ![Berhasil Terhubung](scr/Foto-1-3.png)  
 
-## Akses Server DiTerminal Tanpa Password.
-
+# Akses Server DiTerminal Tanpa Password.
 ### 1. Generate Kunci dan Gembok.
 
 Generate kunci dan gembok menggunakan.  
@@ -58,7 +57,7 @@ Lalu paste kuncinya.
 ![ ](scr/Foto-2-6.png)  
 
 
-## Nyalakan akses port 22, 80, 443, 3000, 5000, 6969.
+# Nyalakan akses port 22, 80, 443, 3000, 5000, 6969.
 Dengan menggunakan command
 - `sudo ufw allow 22`
 - `sudo ufw allow 80`
@@ -71,6 +70,8 @@ Dengan menggunakan command
 Mengecek Status port yang sudah dinyalakan
 - `sudo ufw status`
 ![ufw](scr/Foto-4-1.png)
+
+# Penggunaan text manipulation - car, echo, grep, dan sed
 
 ### 1. cat
 Untuk menampilkan isi file teks dan menggabungkan beberapa file.  
