@@ -1,6 +1,5 @@
 # Diagram Jaringan Komputer
-
-
+![Fotoscr](scr/Diagram.png)
 # Daftar Command Linux 
 
 ## Perintah Dasar
