@@ -2,12 +2,13 @@
 
 ### 1. Generate Kunci dan Gembok
 
-generate kunci dan gembok menggunakan ssh-keygen
+generate kunci dan gembok menggunakan  
+`ssh-keygen`
 ![sshkeygen](scr/Foto-2-0.png)
 
 ### 2. Buka File Manager
 
-Buka file kunci.pub menggunakan notepad
+Buka file `kunci.pub` menggunakan notepad
 ![kunci.pub di file manager](scr/Foto-2-1.png)
 
 ### 3. Tampilan di notepad
@@ -17,7 +18,8 @@ copy kuncinya yang berupa text tersebut
 
 ### 4. Copy kunci ke Server
 
-Copy ke /.ssh/authorized_keys
+Copy ke  
+`/.ssh/authorized_keys`  
 ![copy ke server](scr/Foto-2-3.png)
 
 ### 5. Buka authorized_keys
