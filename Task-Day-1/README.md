@@ -4,7 +4,8 @@ Untuk menginstall Ubuntu Server kita harus menginstall Virtual Machine terlebih 
 2.	Virtual Box
 3.	QEMU
 
-
+## Step 1. Menginstal Virtual Machine dan Ubuntu Server  
+Saya akan menggunakan VirtualBox sebagai Virtual Machine nya, saya mendownlad Virual Box versi 7.1..12 dengan OS yang saya gunakan Windows 11.
 ![Fotoscr](scr/Foto-0-0.jpg)
 
 ![Fotoscr](scr/Foto-0-1.jpg)
