@@ -1,6 +1,7 @@
 # Akses Server Menggunakan Terminal
 ## 1. Buka Server VM
-Install open shh  server terlebih dahulu
+Install open shh  server terlebih dahulu:  
+`sudo apt install openssh-server`  
 ![Install openssh-server](scr/Foto-1-0.png)
 
 ## 2. Buka Terminal
