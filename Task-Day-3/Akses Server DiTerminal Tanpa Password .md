@@ -24,7 +24,8 @@ Copy ke
 
 ### 5. Buka authorized_keys
 
-Buka menggunakan command nano
+Buka menggunakan command  
+`nano authorized_keys`  
 ![nano](scr/Foto-2-4.png)
 
 ### 6. Akses Server diterminal tampa password
