@@ -29,6 +29,7 @@ Lalu paste kuncinya
 ![nano](scr/Foto-2-4.png)
 
 ### 6. Akses Server diterminal tanpa password  
+`ssh -i .ssh\kunci username@ip-address`  
 ![powershell](scr/Foto-2-5.png)
 
 ### 7. Tampilan kalau sudah berhasil
