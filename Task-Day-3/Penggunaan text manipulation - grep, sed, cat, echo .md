@@ -10,8 +10,14 @@ Contohnya:
 ![text manipulation](scr/Foto-3-0.png)
 
 ## 2. echo
-Perintah echo digunakan untuk mencetak teks dan menulis text ke file yang ada diterminal
-Contohnya:
+Perintah echo digunakan untuk mencetak teks dan menulis text ke file yang ada diterminal  
+Contohnya:  
+- Mencetak text  
+`echo "hallo Uncle Roger"`  
+`echo "Tung Tung Sahur"`  
+- Menulis text ke file  
+`echo "hallo Uncle Roger" > fileMSG`  
+`echo "Tung Tung Sahur" > fileBrnRot`  
 ![text manipulation](scr/Foto-3-1.png)
 
 ![text manipulation](scr/Foto-3-2.png)
