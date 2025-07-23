@@ -60,7 +60,7 @@ Saya memilih tidak menginstal configurasi apaapun hanya Ubuntu kosongan saja.
 ![Fotoscr](scr/Foto-4-6.png)
 Tunggu instalasinya hingga selesai.  
 ![Fotoscr](scr/Foto-4-7.png)
-![Fotoscr](scr/Foto-4-8.png)
-Login degan username dan password.  
 ![Fotoscr](scr/Foto-4-9.png)
+Login degan username dan password.  
+![Fotoscr](scr/Foto-4-8.png)
 
