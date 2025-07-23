@@ -1,3 +1,6 @@
+# Diagram Jaringan Komputer
+![diagram](scr/Diagram-Jaringan-Komputer-.png)
+
 # Daftar Command Linux 
 
 ## Perintah Dasar
