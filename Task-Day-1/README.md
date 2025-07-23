@@ -1,4 +1,9 @@
-# Install Ubuntu Server
+# Install Ubuntu Server  
+Untuk menginstall Ubuntu Server kita harus menginstall Virtual Machine terlebih dahulu sebagai Virualisation, banyak opsi untul menginstal Virtual Machine, sebagai contoh:  
+1.	VMware
+2.	Virtual Box
+3.	QEMU
+
 
 ![Fotoscr](scr/Foto-0-0.jpg)
 
