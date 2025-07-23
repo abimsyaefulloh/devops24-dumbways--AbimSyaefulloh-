@@ -1,1 +1,1 @@
-# Pengumpulan Tugas-Tugas 😵‍💫😵‍💫
+# Pengumpulan Tugas-Tugas 
