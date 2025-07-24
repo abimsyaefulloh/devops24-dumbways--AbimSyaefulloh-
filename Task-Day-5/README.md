@@ -23,19 +23,20 @@ Jalankan `npm start` untuk menjalankan webnya.
 # Python  
 - Deploy app menampilkan text nama kalian!  
 - Berjalan di port 5000 & bisa dibuka melalui web
-Nyalakan ufw port 5000 nya,
-`sudo ufw allow 5000`
-lalu cek statusnya  
-`sudo ufw status`
-![Repo](scr/Foto-2-0.png)
-Cek versi python3 `python3 --version`
-![Repo](scr/Foto-2-1.png)
-Buat direktori python,
-`mkdir python`
-dan buat file pythonnya
-`nano appAbim.py`  
-![Repo](scr/Foto-2-2.png)  
-Isi filenya menggunakan codingan berikut.
+
+Nyalakan ufw port 5000 nya,  
+`sudo ufw allow 5000`  
+lalu cek statusnya    
+`sudo ufw status`  
+![Repo](scr/Foto-2-0.png)  
+Cek versi python3 `python3 --version`  
+![Repo](scr/Foto-2-1.png)  
+Buat direktori python,  
+`mkdir python`  
+dan buat file pythonnya  
+`nano appAbim.py`    
+![Repo](scr/Foto-2-2.png)    
+Isi filenya menggunakan codingan berikut.  
 
 
 
