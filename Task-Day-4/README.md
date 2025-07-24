@@ -19,3 +19,8 @@ Isi nama file dan isi textnya.
 ![Repo](scr/Foto-1-3.png)  
 Membuat 3 file yang berisi text.  
 ![Repo](scr/Foto-1-4.png)  
+
+# Manage repository tugas (devops24-dumbways-AbimSyaefulloh) menggunakan terminal  
+
+
+# Demonstrasi mencari perubahan text pada suatu file di GitHub
