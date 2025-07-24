@@ -5,7 +5,7 @@ Jalankan command git clone dan paste urlnya
 `git clone https://github.com/dumbwaysdev/wayshub-frontend.git`
 Lalu bisa dicek isi direktorinya.  
 ![Repo](scr/Foto-1-2.png)  
-Nyalakan ufw port 3000 nya, untuk kita bisa menjalakannya di port 3000,
+Nyalakan ufw port 3000 nya, untuk kita bisa menjalakannya di port 3000,  
 `sudo ufw allow 3000` lalu cek statusnya `sudo ufw status`  
 ![Repo](scr/Foto-1-2.png)  
 Periksa versi node kita, jika versinya terlalu tinggi, maka kita bisa menurunkan versi kebawahnya.
