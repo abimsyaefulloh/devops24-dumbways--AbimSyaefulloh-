@@ -36,18 +36,9 @@ dan buat file pythonnya
 `nano appAbim.py`  
 ![Repo](scr/Foto-2-2.png)  
 Isi filenya menggunakan codingan berikut.
-`from flask import Flask  
-app = Flask(__name__)  
 
 
-@app.route('/')  
-def home():  
-    return "Abim Syaefulloh"  
 
-
-if __name__ == '__main__':  
-    app.run(host='0.0.0.0', port=5000)`  
-# Golang
 - Deploy app menampilkan text "Golang geming!"  
 
 Note : Semua app bisa diakses dengan UFW enabled (firewall menyala abangkuh 🔥🔥🔥)
