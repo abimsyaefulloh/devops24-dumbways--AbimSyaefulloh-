@@ -37,8 +37,8 @@ dan buat file pythonnya
 `nano appAbim.py`    
 ![Repo](scr/Foto-2-2.png)    
 Isi filenya menggunakan codingan berikut.  
-
-
+Jalankan app nya di web dengan command `python3 appAbim.py.  
+![Repo](scr/Foto-2-3.png)    
 
 - Deploy app menampilkan text "Golang geming!"  
 
