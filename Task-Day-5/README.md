@@ -1,5 +1,5 @@
 # NodeJS  
-Clone Repository terlebih dahulu, dengan tekan tombol `<> CODE`, lalu salin urlnya
+Clone Repository terlebih dahulu, dengan tekan tombol `<> CODE`, lalu salin urlnya.  
 ![Repo](scr/Foto-1-0.png)
 Jalankan command git clone dan paste urlnya  
 `git clone https://github.com/dumbwaysdev/wayshub-frontend.git`
