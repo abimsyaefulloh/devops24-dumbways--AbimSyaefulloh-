@@ -21,9 +21,6 @@ Jalankan `npm start` untuk menjalankan webnya.
 ![Repo](scr/Foto-1-6.png)  
 
 # Python  
-- Deploy app menampilkan text nama kalian!  
-- Berjalan di port 5000 & bisa dibuka melalui web
-
 Nyalakan ufw port 5000 nya,  
 `sudo ufw allow 5000`  
 lalu cek statusnya    
