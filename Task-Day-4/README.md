@@ -7,7 +7,7 @@ apa itu version control system adalah alat/software yang digunakan untuk:
 
 # Membuat repository "dumbways-batch-24" dan membuat 3 file berisi text. 
 Buka menu repositories diGithub dan tekan tombol  
-`NEW`
+`NEW`  
 ![Repo](scr/Foto-1-0.png)  
 Buat nama repository
 `dumbways-batch-24`  
