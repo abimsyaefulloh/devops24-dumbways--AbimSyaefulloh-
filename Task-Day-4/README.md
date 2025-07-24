@@ -33,7 +33,7 @@ Lalu Push ke Github kita.
 `git add fileAbim` = menambahkan fileAbim untuk diPush ke github.  
 `git commit -m "NamaCommitNya"`= command untuk commitnya, untuk menyimpan catatan/pesan perubahan.  
 `git remote set-url origin git@github.com:abimsyaefulloh/devops24-dumbways--AbimSyaefulloh-.git` =  
-untuk mengelola alamat remote repository GitHub dari HTTPS (login username + token) menjadi SSH (gak butuh login).
+untuk mengelola alamat remote repository GitHub dari HTTPS (login username + token) menjadi SSH (gak butuh login).  
 `git push origin main` = untuk push ke Github dan memilih branchenya di main  
 ![Repo](scr/Foto-2-4.png)  
 Cek diGithub kita apakan sudah terupload.  
