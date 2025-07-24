@@ -11,7 +11,7 @@ lalu cek statusnya
 `sudo ufw status`  
 ![Repo](scr/Foto-1-2.png)  
 Periksa versi node kita, jika versinya terlalu tinggi, maka kita bisa menurunkan versi kebawahnya.
-Sesuai dengan tugasnya saya memakai node versi 12.
+Sesuai dengan tugasnya saya memakai node versi 12.  
 ![Repo](scr/Foto-1-3.png)
 
 
