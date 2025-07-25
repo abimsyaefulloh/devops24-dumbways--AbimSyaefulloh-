@@ -14,7 +14,7 @@ buka file host di
 
 Menambahkan configurasi  
 `192.168.0.123 abimsyaefulloh.xyz`  
-![diagram](scr/Foto-1-2.png)  
+![diagram](scr/Foto-1-3.png)  
 
 Buka tab baru diterminal, lalu buka direktori  
 `cd /etc/nginx/`  
@@ -22,14 +22,14 @@ dan buka direktori
 `cd sites-enabled`  
 buat file configurasi baru di **sites-enabled**  
 `sudo nano wayshub-frontend.conf`  
-![diagram](scr/Foto-1-3.png)  
+![diagram](scr/Foto-1-4.png)  
 
 Buat codingan berikut, untuk membuat nama server dan lokasi portnyad, lalu simpan filenya.   
-![diagram](scr/Foto-1-4.png)  
+![diagram](scr/Foto-1-5.png)  
 
 Jalankan `sudo nginx -t` untuk mengecek configurasi kita sudah benar atau belum.  
 Jalankan `sudo systemctl reload nginx` untuk mereset atau mereload config baru.  
 Jalankan `sudo sytemctl status nginx` untuk mengecek nginx nya berjalan atau tidak.  
 Terakhir kita buka abimsyaefulloh.xyz dibrowser kita.  
-![diagram](scr/Foto-1-5.png)  
+![diagram](scr/Foto-1-6.png)  
 terlihat webnya bisa diakses menggunakan configurasi yang sudah dibuat sebelumnya.
