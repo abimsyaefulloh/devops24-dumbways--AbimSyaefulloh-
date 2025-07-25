@@ -35,6 +35,6 @@ Buat codingan berikut, untuk membuat nama server dan lokasi portnyad, lalu simpa
 Jalankan `sudo nginx -t` untuk mengecek configurasi kita sudah benar atau belum.  
 Jalankan `sudo systemctl reload nginx` untuk mereset atau mereload config baru.  
 Jalankan `sudo sytemctl status nginx` untuk mengecek nginx nya berjalan atau tidak.  
-Terakhir kita buka abimsyaefulloh.xyz dibrowser kita.
+Terakhir kita buka abimsyaefulloh.xyz dibrowser kita.  
 ![diagram](scr/Foto-1-5.png)  
 terlihat webnya bisa diakses menggunakan configurasi yang sudah dibuat sebelumnya.
