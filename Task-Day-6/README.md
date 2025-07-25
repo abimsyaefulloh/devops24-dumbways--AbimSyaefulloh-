@@ -1,6 +1,12 @@
 ![diagram](scr/ReverseProxy.png)  
 ### Penjelasan
+Reverse Proxy adalah untuk menjadi perantara antara client (pengguna) dengan server-server,  
+- Client (browser pengguna) mengakses website lewat domain  
+- Permintaan itu masuk ke NGINX (Reverse Proxy) terlebih dahulu  
+- NGINX meneruskan ke: Application/Website Server: (misal: login, register, ambil data, dsb)  
+- Setelah server merespons, NGINX mengembalikan hasilnya ke client  
 
+  
 ##  Reverse Proxy dengan nama domain yang disesualikan nama diri sendiri
 Mebuka web yang sudah dideploy.  
 ![diagram](scr/Foto-1-0.png)  
