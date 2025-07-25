@@ -1,1 +1,1 @@
-![diagram](scr/Reverse Proxy.png)  
+![diagram](scr/ReverseProxy.png)  
