@@ -49,7 +49,7 @@ Buat direketory baru bernama golang, dan buat file index.go, yang berisi text "G
 ![Golang](scr/Foto-3-2.png)   
 berikut codingan untuk menampilkan text "Golang geming", yang berjalan di port 3000.    
 ![Golang](scr/Foto-3-3.png)   
-jalankan diweb local 3000
+jalankan diweb local 3000.  
 ![Golang](scr/Foto-3-4.png)   
 
 
