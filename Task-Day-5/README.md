@@ -46,9 +46,10 @@ Akses root terlebih dahulu, dan menjalankan tutorial golang yang ada diwebsiteny
 copy dan jalankan scriptnya.  
 ![Golang](scr/Foto-3-1.png)   
 Buat direketory baru bernama golang, dan buat file index.go, yang berisi text "Golang geming".  
-![Golang](scr/Foto-3-1.png)   
-berikut codingan untuk menampilkan text "Golang geming".  
-![Golang](scr/Foto-3-1.png)   
-
+![Golang](scr/Foto-3-2.png)   
+berikut codingan untuk menampilkan text "Golang geming", yang berjalan di port 3000.    
+![Golang](scr/Foto-3-3.png)   
+jalankan diweb local 3000
+![Golang](scr/Foto-3-4.png)   
 
 
