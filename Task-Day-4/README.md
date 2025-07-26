@@ -41,7 +41,7 @@ Cek diGithub kita apakan sudah terupload.
 
 # Demonstrasi mencari perubahan text pada suatu file di GitHub
 Membuka direktory yang sudah di clone sebelumnya,  
-dan jalankan perintah `git pull origin master` untuk mengupdate isi direktory kita.
+dan jalankan perintah `git pull origin master` untuk mengupdate isi direktory kita.  
 ![Repo](scr/Foto-3-0.png)  
 Edit text yang ada di file1.  
 ![Repo](scr/Foto-3-1.png)  
