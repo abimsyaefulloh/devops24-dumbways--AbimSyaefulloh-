@@ -48,11 +48,10 @@ Edit text yang ada di file1.
 ![Repo](scr/Foto-3-2.png)  
 Cek perubahan menggunakan `git status`.  
 ![Repo](scr/Foto-3-3.png)  
-Memasukkan file `file1` ke dalam staging area — yaitu persiapan sebelum di-commit ke dalam riwayat Git.
+Memasukkan file `file1` ke dalam staging area — yaitu persiapan sebelum di-commit ke dalam riwayat Git, lalu git starus lagi.  
 ![Repo](scr/Foto-3-4.png)  
-Menyimpan pesan tentang perubahan yang sudah ada di staging, dengan pesan commit "2nd commit".  
-![Repo](scr/Foto-3-5.png)  
+Menyimpan pesan tentang perubahan yang sudah ada di staging, dengan pesan commit "2nd commit",  
 lalu git status lagi, untuk mengecek perubahan.  
-![Repo](scr/Foto-3-6.png)  
+![Repo](scr/Foto-3-5.png)  
 
 
