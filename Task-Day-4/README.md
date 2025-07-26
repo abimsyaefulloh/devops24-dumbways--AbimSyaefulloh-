@@ -40,3 +40,19 @@ Cek diGithub kita apakan sudah terupload.
 ![Repo](scr/Foto-2-5.png)  
 
 # Demonstrasi mencari perubahan text pada suatu file di GitHub
+Membuka direktory yang sudah di clone sebelumnya,  
+dan jalankan perintah `git pull origin master` untuk mengupdate isi direktory kita.
+![Repo](scr/Foto-3-0.png)  
+Edit text yang ada di file1.  
+![Repo](scr/Foto-3-1.png)  
+![Repo](scr/Foto-3-2.png)  
+Cek perubahan menggunakan `git status`.  
+![Repo](scr/Foto-3-3.png)  
+Memasukkan file `file1` ke dalam staging area — yaitu persiapan sebelum di-commit ke dalam riwayat Git.
+![Repo](scr/Foto-3-4.png)  
+Menyimpan pesan tentang perubahan yang sudah ada di staging, dengan pesan commit "2nd commit".  
+![Repo](scr/Foto-3-5.png)  
+lalu git status lagi, untuk mengecek perubahan.  
+![Repo](scr/Foto-3-6.png)  
+
+
