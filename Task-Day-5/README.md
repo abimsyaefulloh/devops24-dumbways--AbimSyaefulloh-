@@ -39,6 +39,16 @@ Jalankan app nya di web diport 5000 dengan command diterminal `python3 appAbim.p
 ![Repo](scr/Foto-2-4.png)    
 
 # Deploy app menampilkan text "Golang geming!"  
+Download Golang terlebih dahulu.   
+`link`  
+![Golang](scr/Foto-3-0.png)   
+Akses root terlebih dahulu, dan menjalankan tutorial golang yang ada diwebsitenya.  
+copy dan jalankan scriptnya.  
+![Golang](scr/Foto-3-1.png)   
+Buat direketory baru bernama golang, dan buat file index.go, yang berisi text "Golang geming".  
+![Golang](scr/Foto-3-1.png)   
+berikut codingan untuk menampilkan text "Golang geming".  
+![Golang](scr/Foto-3-1.png)   
 
 
 
