@@ -24,4 +24,4 @@ Instal pm2 terlebih dahulu diterminal.
 
 
 ### Lalu jalankan NodeJS (wayshub-frontend) dan Python (appAbim.py) secara bersama.
-![Repo](scr/Foto-1-1.png)  
+![pm2](scr/Foto-1-1.png)   
