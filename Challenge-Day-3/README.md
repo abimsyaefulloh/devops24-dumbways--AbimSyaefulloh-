@@ -17,6 +17,8 @@ Disini saya menggunakan server 1 sebagai host dan membuat sebuah configurasi di:
 Lalu menambahkan configurasi berikut.  
 ![LoadBalancing](scr/Foto-1-2.png)  
 ![LoadBalancing](scr/Foto-1-3.png)   
- 
-
+Setelah mengedit configurasinya selanjutnya.  
+Jalankan `sudo nginx -t` untuk mengecek configurasi kita sudah benar atau belum.  
+Jalankan `sudo systemctl reload nginx` untuk mereset atau mereload config baru.  
+Jalankan `sudo sytemctl status nginx` untuk mengecek nginx nya berjalan atau tidak.  
 
