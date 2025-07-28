@@ -6,12 +6,12 @@ Disini saya menggunakan 2 server yang sudah file wayshubnya di masing-masing ser
 Tambahkan Penanda di Tiap Server, disini saya merename titlenya yaitu:  
 - Server 1 `<title>WaysHub-svr123</title>`
 - Server 2 `<title>WaysHub-svr157</title>`  
-![LoadBalancing](scr/Foto-1-1.png)  
+![LoadBalancing](scr/Foto-1-1.png)
+
+
 Konfigurasi Load Balancer Nginx hanya dilakukan di salah satu server, 
 yaitu server yang berperan sebagai gateway atau host utama. Server ini akan menerima semua request dari client, 
 lalu mendistribusikannya ke dua backend server menggunakan teknik load balancing.
-
-
 Disini saya menggunakan server 1 sebagai host dan membuat sebuah configurasi di:  
 `/etc/nginx/sites-enabled/`  
 Lalu menambahkan configurasi berikut.  
