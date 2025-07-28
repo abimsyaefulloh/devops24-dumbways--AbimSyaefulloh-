@@ -4,7 +4,7 @@ Clone Repository terlebih dahulu, dengan tekan tombol `<> CODE`, lalu salin urln
 Jalankan command git clone dan paste urlnya  
 `git clone https://github.com/dumbwaysdev/wayshub-frontend.git`  
 Lalu bisa dicek isi direktorinya.  
-![Repo](scr/Foto-1-2.png)  
+![Repo](scr/Foto-1-1.png)  
 Nyalakan ufw port 3000 nya, untuk kita bisa menjalakannya di port 3000,  
 `sudo ufw allow 3000`  
 lalu cek statusnya  
