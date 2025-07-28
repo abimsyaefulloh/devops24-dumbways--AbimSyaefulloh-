@@ -20,8 +20,9 @@ Instal pm2 terlebih dahulu diterminal.
 `pm2 restart appAbim`
 5. Melihat Daftar Proses:  
 `pm2 list`  
-
-
+6. Hapus Aplikasi dari PM2  
+`pm2 delete wayshub-frontend`  
+`pm2 delete appAbim`  
 
 ### Lalu jalankan NodeJS (wayshub-frontend) dan Python (appAbim.py) secara bersama.
 ![pm2](scr/Foto-1-1.png)   
