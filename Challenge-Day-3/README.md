@@ -11,7 +11,7 @@ Tambahkan Penanda di Tiap Server, disini saya merename titlenya yaitu:
 
 Konfigurasi Load Balancer Nginx hanya dilakukan di salah satu server, 
 yaitu server yang berperan sebagai gateway atau host utama. Server ini akan menerima semua request dari client, 
-lalu mendistribusikannya ke dua backend server menggunakan teknik load balancing.
+lalu mendistribusikannya ke dua backend server menggunakan teknik load balancing.  
 Disini saya menggunakan server 1 sebagai host dan membuat sebuah configurasi di:  
 `/etc/nginx/sites-enabled/`  
 Lalu menambahkan configurasi berikut.  
