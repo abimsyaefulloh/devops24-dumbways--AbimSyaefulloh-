@@ -28,5 +28,5 @@ Jalankan `sudo sytemctl status nginx` untuk mengecek nginx nya berjalan atau tid
 Jalankan webnya di 2 server,  
 `npm start`  
 ![LoadBalancing](scr/Foto-1-5.jpg)   
-Refresh browser untuk menganti server.  
+## Refresh browser untuk menganti server.  
 ![LoadBalancing](scr/Foto-1-6.jpg)   
