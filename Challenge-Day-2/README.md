@@ -8,7 +8,7 @@ Instal pm2 terlebih dahulu diterminal.
 ### Untuk mengoprasikannya
 1. Menjalankan Appnya:  
 `pm2 start npm --name wayshub-frontend -- start`  
-`pm2 start appAbim.py --name appAbim --interpreter python3`
+`pm2 start appAbim.py -- nama appAbim --interpreter python3`
 2. Stop (hentikan sementara):  
 `pm2 stop wayshub-frontend`  
 `pm2 stop appAbim`
